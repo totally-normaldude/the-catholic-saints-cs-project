@@ -1,0 +1,39 @@
+a:hover {
+  background-color: #90b1f0;
+  font-size: 18px;
+}
+
+.mask1 {
+  mask-image: url('images/cross.png');
+  mask-repeat: no-repeat;
+}
+
+body {
+  background-image: url('images/Church.jpg');
+  background-size: 100%;
+}
+
+div {
+  background-color: #fff9b8; /* i used divs so my code and site would look more clean */
+}
+
+p {
+  text-align: center;
+  background-color: #fff9b8;
+}
+ 
+h1 {
+  text-align: center;
+  color: #fff9b8;
+}
+
+h6 {
+  text-align: center;
+  color: black;
+  font-family: courier;
+}
+
+
+
+
+
